@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BaseStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/MarginNormal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorAnswer</item>
+        <item name="android:textSize">@dimen/SizeOfAnsewrsText</item>
+    </style>
+
+    <style name="ExtStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/MarginLow</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorQuestion</item>
+        <item name="android:textSize">@dimen/SizeOfQuestionsText</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="TitleStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/colorQuestion</item>
+        <item name="android:textSize">@dimen/SizeOfTitleText</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="LineStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginBottom">@dimen/MarginLow</item>
+        <item name="android:layout_marginTop">@dimen/MarginLow</item>
+        <item name="android:layout_marginLeft">@dimen/MarginHigh</item>
+        <item name="android:layout_marginRight">@dimen/MarginHigh</item>
+        <item name="android:background">@color/colorQuestion</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+        <item name="android:background">@color/colorButton</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ChessQuizN</string>
+    <string name="result">Result</string>
+    <string name="min">0</string>
+    <string name="max">/9</string>
+
+    <!-- Questions -->
+    <string name="question0">0.How many fields has a chessboard ?</string>
+    <string name="question1">1.How many pieces are on the chessboard at start ?</string>
+    <string name="question2">2.Who is the man at the picture above ?</string>
+    <string name="question3">3.How many major pieces black have at start ?</string>
+    <string name="question4">4.How many minor pieces white have at start ?</string>
+    <string name="question5">5.That opening above is called ?</string>
+    <string name="question6">6.The player whose color starts the game usually?</string>
+    <string name="question7">7.Who is the current world chess champion(2018) ?</string>
+    <string name="question8">8.Mark all world chess champions</string>
+
+    mark all world champions
+    <!-- Answers -->
+    <string name="answer0_1">Type number</string>
+
+    <string name="answer1_1">8</string>
+    <string name="answer1_2">16</string>
+    <string name="answer1_3">32</string>
+    <string name="answer1_4">64</string>
+
+    <string name="answer2_1">Jose Raul Capablanca</string>
+    <string name="answer2_2">Bobby Fischer</string>
+    <string name="answer2_3">Garry Kasparov</string>
+    <string name="answer2_4">Michail Tal</string>
+
+    <string name="answer3_1">8</string>
+    <string name="answer3_2">3</string>
+    <string name="answer3_3">16</string>
+    <string name="answer3_4">4</string>
+
+    <string name="answer4_1">8</string>
+    <string name="answer4_2">3</string>
+    <string name="answer4_3">16</string>
+    <string name="answer4_4">4</string>
+
+    <string name="answer5_1">Italian Game</string>
+    <string name="answer5_2">Reti Opening</string>
+    <string name="answer5_3">English Opening</string>
+    <string name="answer5_4">Ruy Lopez</string>
+
+    <string name="answer6_1">White</string>
+    <string name="answer6_2">Black</string>
+    <string name="answer6_3">Red</string>
+    <string name="answer6_4">Gold</string>
+
+    <string name="answer7_1">Garry Kasparov</string>
+    <string name="answer7_2">Magnus Carlsen</string>
+    <string name="answer7_3">Hikaru Nakamura</string>
+    <string name="answer7_4">Vassily Ivanchuk</string>
+
+    <string name="answer8_1">Vassily Ivanchuk</string>
+    <string name="answer8_2">Michail Tal</string>
+    <string name="answer8_3">Emanuel Lasker</string>
+    <string name="answer8_4">Hikaru Nakamura</string>
+
+
+    <!-- Buttons -->
+    <string name="submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+    <string name="solution">SOLUTION</string>
+
+</resources>
